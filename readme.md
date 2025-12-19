@@ -397,6 +397,9 @@ Millmaxを使わずに直接取り付ける場合は、この時点でマスキ�
 Millmaxを使う場合はロータリーエンコーダーは脱着が可能ですが、無理やり外したりすると足が折れてしまう可能性があるため頻繁な差し替えは推奨していません。<br/>
 使い方によってクリック感のないタイプのエンコーダーに切り替えたり、エンコーダーの位置に普通のスイッチが必要になった際取り外せるようにした仕様です。<br/>
 また、使用するエンコーダーノブによっては軸がタイトで無理やり引き抜こうとするとエンコーダー自体もすっぽ抜けてしまう可能性もあるので、注意して取り外しするようにしてください。<br/>
+
+また、Millmaxを使用する場合、すっぽ抜けを防止するパーツを付属しています。
+
 <br/>
 <br/>
 <br/>
@@ -411,8 +414,9 @@ Millmaxを使う場合はロータリーエンコーダーは脱着が可能で�
 コンスルーを使用しているので最悪の場合取り外して新しいものに交換は出来ますが、<br/>
 コンスルーが勿体ないので。<br/>
 
+![IMG_1985](https://github.com/user-attachments/assets/7bbb2007-1c22-4c61-bedd-0a9010d493c5)
 
-![IMG_7120](https://github.com/user-attachments/assets/55fef620-5e93-4884-b67a-6b1e555991ed)
+
 <br/>
 <br/>
 
@@ -466,7 +470,7 @@ Millmaxを使う場合はロータリーエンコーダーは脱着が可能で�
 <br/>
 
 はんだ付け完了<br/>
-![IMG_7135](https://github.com/user-attachments/assets/f29b6086-e746-4d71-bd4c-ad8c02da6219)<br/>
+![IMG_1983](https://github.com/user-attachments/assets/7d7a4fd9-a820-4dd2-85b7-08a55488813a)<br/>
 <br/>
 <br/>
 <br/>
@@ -532,7 +536,8 @@ ukihuneの名前が選択できるはずです。<br/>
 
 これで基板は完成です。<br/>
 
-![IMG_7637](https://github.com/user-attachments/assets/b4d50c39-d3b1-4ea1-8502-21266e758dc7)
+![IMG_1981](https://github.com/user-attachments/assets/6b5c636d-ce8c-4a5d-a13b-4f99efdad97b)
+
 
 <br/>
 vialソフトウェア上のLightingタブでライティングアニメーションを変更するなどして、全LEDがぺかーーーーーーーー！<br/> 
