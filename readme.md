@@ -269,7 +269,8 @@ MXスイッチソケットを取り付けていきます。<br/>
 <br/>
 
 トグルスイッチをはんだ付けしていきます。4つ付けます。
-![IMG_7287](https://github.com/user-attachments/assets/4583477e-0d3f-4b78-9093-f3ab22599c79)
+
+![IMG_1966](https://github.com/user-attachments/assets/18c51092-11d2-45ec-a461-5f576f6b080a)
 
 <br/>
 <br/>
@@ -308,12 +309,13 @@ MXスイッチソケットを取り付けていきます。<br/>
 水平になっていない場合、こて先で中央ピンのはんだを再度温め直して修正してください。<br/>
 はんだが溶けている間は修正ができます。<br/>
 ここで修正をしておかないと後からのリカバリーは非常に難しくなるので、水平確認は確実に行いましょう。<br/>
-![IMG_7006](https://github.com/user-attachments/assets/1bbd286a-b478-41a3-bcfd-b5204f6d2627)
+
 <br/>
 <br/>
 
-３つのピンの固定が出来たら同じ要領、真ん中→水平確認→左右ピンの順番でTG2もはんだ付けしていきます。
-![IMG_7007](https://github.com/user-attachments/assets/5a849d9c-f1d7-4011-94bb-4814b2ea1ded)
+３つのピンの固定が出来たら同じ要領で、まん中→水平確認→左右ピンの順番でTG2,TG3,TG4もはんだ付けしていきます。
+![IMG_1957](https://github.com/user-attachments/assets/da276975-52dc-4424-a09f-3d5b62cffae4)
+
 <br/>
 <br/>
 <br/>
@@ -369,7 +371,7 @@ Millmaxを１つのロータリーエンコーダーに対して5個はんだ付
 ![IMG_7016](https://github.com/user-attachments/assets/80ed164e-756a-4df0-b121-7346a80d914f)
 <br/>
 <br/>
-固定ができたら他の２箇所も同じ要領でMillmaxを取り付け→固定していきます。
+固定ができたら他の3箇所も同じ要領でMillmaxを取り付け→固定していきます。
 
 <br/>
 <br/>
@@ -378,15 +380,18 @@ Millmaxを１つのロータリーエンコーダーに対して5個はんだ付
 <br/>
 <br/>
 
+![IMG_1953](https://github.com/user-attachments/assets/58bb5282-2e33-4f53-90ea-8770047709ca)
+
 ロータリーエンコーダー本体を取り付けていきます。<br/>
 穴の位置に合うように足を多少広げてから刺し込みます。<br/>
 差し込む際、上から垂直に力をかけると足が曲がる可能性が高いので、片側をある程度差し込んでからもう片側を調整しながら差し込むと上手くいきます。<br/>
-横から見て水平になっているか確認ながらしっかりと差し込みます。<br/>
-Millmaxを使わずに直接取り付ける場合は、この時点でマスキングテープなどでしっかりと固定してから、多めのはんだを流し込んでしっかり固定してください。<br/>
-![IMG_7017](https://github.com/user-attachments/assets/5f861ef2-c253-4738-be6f-531336a1e584)
-<br/>
-<br/>
 
+横から見て水平になっているか確認ながらしっかりと差し込みます。<br/>
+![IMG_1947](https://github.com/user-attachments/assets/c34e35ce-5bd2-40a4-a28d-3168cc7e4cdb)<br/>
+
+Millmaxを使わずに直接取り付ける場合は、この時点でマスキングテープなどでしっかりと固定してから、多めのはんだを流し込んでしっかり固定してください。<br/>
+
+![IMG_1945](https://github.com/user-attachments/assets/617df39f-dc27-46b0-9946-72cb4e6686d8)<br/>
 <br/>
 <br/>
 Millmaxを使う場合はロータリーエンコーダーは脱着が可能ですが、無理やり外したりすると足が折れてしまう可能性があるため頻繁な差し替えは推奨していません。<br/>
