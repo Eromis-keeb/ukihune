@@ -42,7 +42,7 @@ vialのソフトウェアから自由にキーマップを変更可能です。
 --|--
 RP2040-ZERO|x1
 MX用スイッチソケット|x27
-SK6812MINI-E |x30
+SK6812MINI-E |x31
 Millmax（なくても作れます）※非対応基板もあり |x10
 高さ2.0mmコンスルー(12ピン) |x2
 SMDダイオード |x29
@@ -136,7 +136,7 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 #### 1-2.LED本体を取り付け
 <br/>
 <br/>
-基板裏面のLED1-LED30の部分にLED本体をはんだ付けしていきます。<br/>
+基板裏面のLED1-LED31の部分にLED本体をはんだ付けしていきます。<br/>
 
 ![IMG_1960](https://github.com/user-attachments/assets/360a88da-4bc3-4796-bcfc-b67050f7acb2)
 
