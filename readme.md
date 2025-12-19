@@ -1,5 +1,6 @@
 
-![IMG_1980](https://github.com/user-attachments/assets/83ef6cfd-45e3-47f2-b2ee-49b8a8822439)
+![IMG_8109](https://github.com/user-attachments/assets/f25de957-f26e-4048-ba9e-7d8fca14e62d)
+
 
 
 
@@ -524,13 +525,14 @@ Vialソフトウェアを開き、緑枠内最上段のキーボード名の部�
 
 ukihuneの名前が選択できるはずです。<br/>
 クリックすると・・・<br/>
+<img width="1260" height="125" alt="スクリーンショット 2025-12-19 22 08 21" src="https://github.com/user-attachments/assets/21188e12-b6a3-4e64-b923-187d2f69f277" /><br/>
 
-![IMG_8063](https://github.com/user-attachments/assets/0b636f9c-e26b-4f05-8702-a32049113adb)<br/>
+<img width="1231" height="729" alt="スクリーンショット 2025-12-19 22 08 45" src="https://github.com/user-attachments/assets/a4f17e67-9c25-4c1d-bc4b-7f43b3927b5b" />
 <br/>
 
 青枠内のようにキーボード（マクロパッド）のキーの配列の形をしたキーマップが表示されればOKです。<br/>
 
-![IMG_8064](https://github.com/user-attachments/assets/093467a1-59f8-40b4-ada0-3b8977d2d5c3)<br/>
+<br/>
 <br/>
 <br/>
 
