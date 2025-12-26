@@ -573,12 +573,9 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 <br/>
 
 
-![IMG_1923](https://github.com/user-attachments/assets/f17fb04d-1946-4710-9deb-0aebf71cacc1) 
-事前に穴の位置を確認します。
-<br/>
-<br/>
-![IMG_1925](https://github.com/user-attachments/assets/fbf154cf-fc77-4855-9822-14c7eb85231a)
-トッププレートとボトムプレートを重ねて穴の位置にズレがないか確認し、プレートの裏表を見ておきます。
+
+事前に穴の位置を確認します。<br/>
+トッププレートとボトムプレートを重ねて穴の位置にズレがないか確認し、プレートの裏表を見ておきます。<br/>
 <br/>
 <br/>
 
@@ -588,7 +585,7 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 <br/>
 <br/>
 
-![IMG_1927](https://github.com/user-attachments/assets/c140ab93-f006-4e62-aab0-7a2b0c2651c9)
+
 フィルムを剥がしたら次に四隅の足を作ります。<br/>
 
 ![IMG_1911](https://github.com/user-attachments/assets/5f94248c-7be3-45ce-95be-04980c4b9426)
