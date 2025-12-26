@@ -659,21 +659,21 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 この際、ロータリーエンコーダーをMillmax方式で取り付けている場合はすっぽ抜けるのを防止するパーツを取り付けます。<br/>
 取り付けなくても動作には影響しません。また、直接はんだ付けしている場合も必要ないのでその場合は飛ばしてネジ止めに進んで下さい。<br/>
 
-![IMG_8144](https://github.com/user-attachments/assets/a796a46f-8679-437a-b5ef-ce1db9e3078b)
+![IMG_8144](https://github.com/user-attachments/assets/a796a46f-8679-437a-b5ef-ce1db9e3078b)<br/>
 
-![IMG_8145](https://github.com/user-attachments/assets/3b42a8fa-677d-4c88-a982-551ebf14abe8)
+![IMG_8145](https://github.com/user-attachments/assets/3b42a8fa-677d-4c88-a982-551ebf14abe8)<br/>
 
-![IMG_8146](https://github.com/user-attachments/assets/1abc6960-f6df-4a7b-9b61-f7c0764bda7e)
+![IMG_8146](https://github.com/user-attachments/assets/1abc6960-f6df-4a7b-9b61-f7c0764bda7e)<br/>
 
 
 
-![IMG_8147](https://github.com/user-attachments/assets/09634a30-9ce3-4a9f-897c-f0f27eda4f94)
+![IMG_8147](https://github.com/user-attachments/assets/09634a30-9ce3-4a9f-897c-f0f27eda4f94)<br/>
 
-![IMG_8149](https://github.com/user-attachments/assets/e301c34c-d959-4dc6-a6b3-befe01a2f50c)
+![IMG_8149](https://github.com/user-attachments/assets/e301c34c-d959-4dc6-a6b3-befe01a2f50c)<br/>
 
-![IMG_8150](https://github.com/user-attachments/assets/55fd91af-14cf-403f-985d-61b2acb0473b)
+![IMG_8150](https://github.com/user-attachments/assets/55fd91af-14cf-403f-985d-61b2acb0473b)<br/>
 
-![IMG_8150](https://github.com/user-attachments/assets/7573bbf0-f90b-45ea-8dc6-0cca2f097cc4)
+![IMG_8150](https://github.com/user-attachments/assets/7573bbf0-f90b-45ea-8dc6-0cca2f097cc4)<br/>
 
 
 
