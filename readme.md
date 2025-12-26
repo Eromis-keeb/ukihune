@@ -665,6 +665,7 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 
 ![IMG_8146](https://github.com/user-attachments/assets/1abc6960-f6df-4a7b-9b61-f7c0764bda7e)<br/>
 
+![IMG_8148](https://github.com/user-attachments/assets/ec7bea4f-8abf-4170-a4a8-f7c3e3edf907)<br/>
 
 
 ![IMG_8147](https://github.com/user-attachments/assets/09634a30-9ce3-4a9f-897c-f0f27eda4f94)<br/>
