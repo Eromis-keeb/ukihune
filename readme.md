@@ -568,7 +568,8 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 
 最後に完成した基板を収めるケースを組み立てていきます。<br/> 
 
-![IMG_1916](https://github.com/user-attachments/assets/52e0a721-c1ad-4f9d-8f42-1f4b87ee41ea)
+![IMG_8117](https://github.com/user-attachments/assets/f8bd7d1f-2afb-4256-87f0-ac4d4580166a)
+
 <br/>
 
 
@@ -582,7 +583,8 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 <br/>
 
 まずボトムプレートの保護シートを剥がします（裏表とも）<br/>
-![IMG_1919](https://github.com/user-attachments/assets/3d021817-bfa0-43fe-974b-0c11188a0f90)
+![IMG_8118](https://github.com/user-attachments/assets/9d120883-ec7b-4b9e-8657-ed8db444eb39)
+
 <br/>
 <br/>
 
@@ -593,17 +595,30 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 ![IMG_1914](https://github.com/user-attachments/assets/22a0fed4-af28-45aa-be1b-5c50b34d3500)
 7mm〜のM2ネジで足部品を作ります。
 
-![IMG_1918](https://github.com/user-attachments/assets/a5909568-9c16-4d75-bef4-e57555f792b9)
-
+![IMG_8120](https://github.com/user-attachments/assets/fec3e9c4-dd1b-4f9d-a98a-5e65f6c9bd5f)<br/>
 緑枠内の箇所９箇所にスペーサをM2ネジ（7mm〜）を使ってとめていきます。<br/>
 <br/>
 <br/>
 写真のように表側にスペーサーを置き、裏側からM2ネジでとめます。<br/>
 ![IMG_7148](https://github.com/user-attachments/assets/f2d89995-7d26-4550-8b5b-ca6bbf668bb6)<br/>
-
-![IMG_1922](https://github.com/user-attachments/assets/d8b32c3f-0345-48b1-9acf-489bec108ee6)<br/>
 <br/>
-緑枠内の箇所に同じようにスペーサーをとめていきます。<br/>
+<br/>
+
+![IMG_8121](https://github.com/user-attachments/assets/2e53b7de-af98-4c03-a016-cdb5b9816010)<br/>
+次にボトムプレートに枠を付けていきます。。<br/>
+
+
+
+![IMG_8123](https://github.com/user-attachments/assets/79390263-ff51-44fc-baa1-634a4e8b647c)<br/>
+ミドルフレームのフィルムを剥がし、<br/>
+先程取り付けた緑枠のスペーサー部分とミドル枠の穴の位置を合わせて嵌め込みます。<br/>
+
+
+
+
+![IMG_8123](https://github.com/user-attachments/assets/4c9209a3-d83f-4738-a97b-ab99a4310917)<br/>
+取り付け後<br/>
+
 <br/>
 <br/>
 
