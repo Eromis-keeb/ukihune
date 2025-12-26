@@ -669,7 +669,8 @@ M2ネジ（5mm〜）でねじ止めします。<br/>
 
 <br/>
 最後にお好みのキーキャップを取り付け<br/>
-![IMG_8137](https://github.com/user-attachments/assets/1c8c7907-2f07-45bb-a562-9cc75da32fec)
+
+![IMG_8137](https://github.com/user-attachments/assets/1c8c7907-2f07-45bb-a562-9cc75da32fec)<br/>
 
 
 <br/>
@@ -679,7 +680,7 @@ M2ネジ（5mm〜）でねじ止めします。<br/>
 必要に応じて後述するミドルプレートを好みに彩ったりと楽しんでいただければと。<br/>
 お疲れ様でした！！<br/>
 
-![IMG_8141](https://github.com/user-attachments/assets/4bf2e773-4ca6-48fb-9cbc-b658f18fb5c7)
+![IMG_8141](https://github.com/user-attachments/assets/4bf2e773-4ca6-48fb-9cbc-b658f18fb5c7)<br/>
 
 
 <br/>
